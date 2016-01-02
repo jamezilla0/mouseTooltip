@@ -45,7 +45,7 @@ mouseTooltip depends on these frameworks
     <!-- angularJs -->
     <script src="node_modules/angular/angular.js"></script>
     <!-- mouseTooltip -->
-    <script src="libs/js/mouseTooltip/directive.js">
+    <script src="libs/js/mouseTooltip/directive.js"></script>
 </html>
 ```
 
